@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="b1">Add</string>
+    <string name="b2">Clear</string>
+</resources>
